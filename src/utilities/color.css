@@ -1,0 +1,55 @@
+.wood-text{
+     background-color: rgb(51, 4, 4);
+}
+
+.water-text{
+    background-color: rgb(148, 148, 214);
+}
+
+.spring-leaf-text {
+    background-color: rgb(59, 104, 59);
+}
+
+.grass-text{
+    background-color: rgba(37, 104, 37, 0.877);
+}
+
+.sun-ray-text{
+    background-color: rgb(240, 240, 90);
+}
+
+.sky-text{
+    background-color: paleturquoise;
+}
+
+.clouds-text{
+       background-color: grey;
+}
+
+.mountain-text{
+       background-color: brown;
+}
+
+.pebbles-text{
+    background-color: rgb(49, 34, 2);
+}
+
+.fire-text{
+    background-color: rgb(243, 162, 12);
+}
+
+.moon-text{
+    background-color: rgb(233, 230, 230);
+}
+
+.sunset-text{
+    background-color: rgb(253, 168, 30);
+}
+
+.sky-sunset-text{
+    background-color: rgb(241, 153, 175);
+}
+
+.after-sunset-text{
+    background-color: rgb(85, 20, 85);
+}

@@ -1,0 +1,55 @@
+.wood{
+     background-color: rgb(51, 4, 4);
+}
+
+.water{
+    background-color: rgb(148, 148, 214);
+}
+
+.spring-leaf {
+    background-color: rgb(59, 104, 59);
+}
+
+.grass{
+    background-color: rgba(37, 104, 37, 0.877);
+}
+
+.sun-ray{
+    background-color: rgb(240, 240, 90);
+}
+
+.sky{
+    background-color: paleturquoise;
+}
+
+.clouds{
+       background-color: grey;
+}
+
+.mountain{
+       background-color: brown;
+}
+
+.pebbles{
+    background-color: rgb(49, 34, 2);
+}
+
+.fire{
+    background-color: rgb(243, 162, 12);
+}
+
+.moon{
+    background-color: rgb(233, 230, 230);
+}
+
+.sunset{
+    background-color: rgb(253, 168, 30);
+}
+
+.sky-sunset{
+    background-color: rgb(241, 153, 175);
+}
+
+.after-sunset{
+    background-color: rgb(85, 20, 85);
+}
