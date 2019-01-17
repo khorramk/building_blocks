@@ -1,2 +1,4 @@
 @import url('./component/button.css');
 @import url('./component/alert.css');
+@import url('./layout/grid.css');
+@import url('./utilities/bgcolor.css');
