@@ -1,2 +1,10 @@
-@import url('./component/button.css');
+@import url('./component/buttons.css');
 @import url('./component/alert.css');
+@import url('./component/alert.css');
+@import url('./component/animate.css');
+@import url('./component/carousel.css');
+@import url('./layout/grid.css');
+@import url('./utilities/bgcolor.css');
+
+
+

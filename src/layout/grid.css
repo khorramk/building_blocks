@@ -1,0 +1,146 @@
+.bricks-right{
+      float: right;
+}
+
+.bricks-left{
+    float: left;
+}
+
+.clear-space-left{
+    clear: left;
+}
+
+.clear-space-right{
+    clear: right;
+}
+
+.package-wrap{
+    width: 1500px;
+    height: 1000px;
+    padding: 10px;
+    display: flow-root;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.package-wrap::after{
+    content: "";
+    clear: both;
+    display: block;
+}
+
+.flat-1{
+    width: 8.333%;
+    margin-left: 20px;
+}
+
+
+.flat-2{
+    width: 16.666%;
+}
+
+
+.flat-3{
+    width: 24.9999%;
+}
+
+
+.flat-4{
+    width: 33.3333%;
+}
+
+
+.flat-5{
+    width: 41.66666%;
+}
+
+
+.flat-6{
+    width: 50%;
+}
+
+
+.flat-7{
+    width: 58.333333%;
+}
+
+
+.flat-8{
+    width: 66.6666%;
+}
+
+
+.flat-9{
+    width: 75%;
+}
+
+
+.flat-10{
+    width: 83.333%;
+}
+
+.flat-11{
+    width: 91.6666%;
+}
+
+.flat-12{
+    width: 100%;
+}
+
+.floor-1{
+    height: 8.3333%;
+    margin-bottom: 20px;
+}
+
+.floor-2{
+    height: 16.6666%;
+}
+
+.floor-3{
+    height: 24.9999%;
+}
+
+.floor-4{
+    height: 33.3333%;
+}
+
+.floor-5{
+    height: 41.6666%;
+}
+
+.floor-6{
+    height: 50%;
+}
+
+
+.floor-7{
+    height: 58.3333%;
+}
+
+.floor-8{
+    height: 66.666%;
+}
+
+.floor-9{
+    height: 75%;
+}
+
+.floor-10{
+    height: 83.333%;
+}
+
+.floor-11{
+    height: 91.6666%;
+}
+
+.floor-12{
+    height: 100%;
+}
+
+*{
+    box-sizing: border-box;
+}
+body{
+    width: 100%;
+    text-align: center;
+}

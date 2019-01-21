@@ -1,5 +1,5 @@
 {
-  "name": "KS-SUI",
+  "name": "KS-UI",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -14,9 +14,14 @@
   "license": "ISC",
   "devDependencies": {
     "css-loader": "^2.1.0",
+    "csv-loader": "^3.0.2",
+    "file-loader": "^3.0.1",
     "style-loader": "^0.23.1",
+    "svg-inline-loader": "^0.8.0",
+    "url-loader": "^1.1.2",
     "webpack": "^4.28.4",
     "webpack-cli": "^3.2.1",
-    "webpack-dev-server": "^3.1.14"
+    "webpack-dev-server": "^3.1.14",
+    "xml-loader": "^1.2.1"
   }
 }
