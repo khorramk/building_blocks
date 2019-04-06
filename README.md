@@ -63,15 +63,15 @@ class: sky-sunset
 class: after-sunset
 
 
-#color of the fonts
+# color of the fonts
 
 color of the fonts are same as background-color except that you need to add -text after each name convention
 
 
-#Contribution
+# Contribution
 
 feel free to make issues in this repo.
 
-#license
+# license
 
 MIT
